@@ -35,4 +35,4 @@ Needs **Visual Studio** (Desktop development with C++) or MinGW `g++`.
 
 ## License
 
-[MIT](LICENSE) © [YourPOV](https://github.com/yourpovv)
+[MIT](LICENSE) © [YourPOVV](https://github.com/yourpovv)
