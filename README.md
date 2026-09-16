@@ -27,7 +27,7 @@
 | Percent      | Calculates percentages            |
 
 # Download: 
-You can download it from the [release](https://github.com/yourpov/Calculator/releases/) page
+You can download it from the [release](https://github.com/yourpovv/Calculator/releases/) page
 
 ## Build
 
@@ -35,4 +35,4 @@ Needs **Visual Studio** (Desktop development with C++) or MinGW `g++`.
 
 ## License
 
-[MIT](LICENSE) © [YourPOV](https://github.com/yourpov)
+[MIT](LICENSE) © [YourPOV](https://github.com/yourpovv)
